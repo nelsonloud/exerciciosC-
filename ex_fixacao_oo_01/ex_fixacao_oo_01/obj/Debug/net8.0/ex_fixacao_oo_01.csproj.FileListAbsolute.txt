@@ -1,0 +1,14 @@
+C:\projetos web\C#\ex_fixacao_oo_01\ex_fixacao_oo_01\obj\Debug\net8.0\ex_fixacao_oo_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos web\C#\ex_fixacao_oo_01\ex_fixacao_oo_01\obj\Debug\net8.0\ex_fixacao_oo_01.AssemblyInfoInputs.cache
+C:\projetos web\C#\ex_fixacao_oo_01\ex_fixacao_oo_01\obj\Debug\net8.0\ex_fixacao_oo_01.AssemblyInfo.cs
+C:\projetos web\C#\ex_fixacao_oo_01\ex_fixacao_oo_01\obj\Debug\net8.0\ex_fixacao_oo_01.csproj.CoreCompileInputs.cache
+C:\projetos web\C#\ex_fixacao_oo_01\ex_fixacao_oo_01\bin\Debug\net8.0\ex_fixacao_oo_01.exe
+C:\projetos web\C#\ex_fixacao_oo_01\ex_fixacao_oo_01\bin\Debug\net8.0\ex_fixacao_oo_01.deps.json
+C:\projetos web\C#\ex_fixacao_oo_01\ex_fixacao_oo_01\bin\Debug\net8.0\ex_fixacao_oo_01.runtimeconfig.json
+C:\projetos web\C#\ex_fixacao_oo_01\ex_fixacao_oo_01\bin\Debug\net8.0\ex_fixacao_oo_01.dll
+C:\projetos web\C#\ex_fixacao_oo_01\ex_fixacao_oo_01\bin\Debug\net8.0\ex_fixacao_oo_01.pdb
+C:\projetos web\C#\ex_fixacao_oo_01\ex_fixacao_oo_01\obj\Debug\net8.0\ex_fixacao_oo_01.dll
+C:\projetos web\C#\ex_fixacao_oo_01\ex_fixacao_oo_01\obj\Debug\net8.0\refint\ex_fixacao_oo_01.dll
+C:\projetos web\C#\ex_fixacao_oo_01\ex_fixacao_oo_01\obj\Debug\net8.0\ex_fixacao_oo_01.pdb
+C:\projetos web\C#\ex_fixacao_oo_01\ex_fixacao_oo_01\obj\Debug\net8.0\ex_fixacao_oo_01.genruntimeconfig.cache
+C:\projetos web\C#\ex_fixacao_oo_01\ex_fixacao_oo_01\obj\Debug\net8.0\ref\ex_fixacao_oo_01.dll

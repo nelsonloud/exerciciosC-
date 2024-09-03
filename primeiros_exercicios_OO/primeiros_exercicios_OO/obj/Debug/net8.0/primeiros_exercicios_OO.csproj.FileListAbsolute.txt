@@ -1,0 +1,14 @@
+C:\projetos web\C#\primeiros_exercicios_OO\primeiros_exercicios_OO\bin\Debug\net8.0\primeiros_exercicios_OO.exe
+C:\projetos web\C#\primeiros_exercicios_OO\primeiros_exercicios_OO\bin\Debug\net8.0\primeiros_exercicios_OO.deps.json
+C:\projetos web\C#\primeiros_exercicios_OO\primeiros_exercicios_OO\bin\Debug\net8.0\primeiros_exercicios_OO.runtimeconfig.json
+C:\projetos web\C#\primeiros_exercicios_OO\primeiros_exercicios_OO\bin\Debug\net8.0\primeiros_exercicios_OO.dll
+C:\projetos web\C#\primeiros_exercicios_OO\primeiros_exercicios_OO\bin\Debug\net8.0\primeiros_exercicios_OO.pdb
+C:\projetos web\C#\primeiros_exercicios_OO\primeiros_exercicios_OO\obj\Debug\net8.0\primeiros_exercicios_OO.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos web\C#\primeiros_exercicios_OO\primeiros_exercicios_OO\obj\Debug\net8.0\primeiros_exercicios_OO.AssemblyInfoInputs.cache
+C:\projetos web\C#\primeiros_exercicios_OO\primeiros_exercicios_OO\obj\Debug\net8.0\primeiros_exercicios_OO.AssemblyInfo.cs
+C:\projetos web\C#\primeiros_exercicios_OO\primeiros_exercicios_OO\obj\Debug\net8.0\primeiros_exercicios_OO.csproj.CoreCompileInputs.cache
+C:\projetos web\C#\primeiros_exercicios_OO\primeiros_exercicios_OO\obj\Debug\net8.0\primeiros_exercicios_OO.dll
+C:\projetos web\C#\primeiros_exercicios_OO\primeiros_exercicios_OO\obj\Debug\net8.0\refint\primeiros_exercicios_OO.dll
+C:\projetos web\C#\primeiros_exercicios_OO\primeiros_exercicios_OO\obj\Debug\net8.0\primeiros_exercicios_OO.pdb
+C:\projetos web\C#\primeiros_exercicios_OO\primeiros_exercicios_OO\obj\Debug\net8.0\primeiros_exercicios_OO.genruntimeconfig.cache
+C:\projetos web\C#\primeiros_exercicios_OO\primeiros_exercicios_OO\obj\Debug\net8.0\ref\primeiros_exercicios_OO.dll

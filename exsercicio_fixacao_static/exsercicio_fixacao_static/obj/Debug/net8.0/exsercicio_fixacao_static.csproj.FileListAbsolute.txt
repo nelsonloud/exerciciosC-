@@ -1,0 +1,14 @@
+C:\projetos web\C#\exsercicio_fixacao_static\exsercicio_fixacao_static\bin\Debug\net8.0\exsercicio_fixacao_static.exe
+C:\projetos web\C#\exsercicio_fixacao_static\exsercicio_fixacao_static\bin\Debug\net8.0\exsercicio_fixacao_static.deps.json
+C:\projetos web\C#\exsercicio_fixacao_static\exsercicio_fixacao_static\bin\Debug\net8.0\exsercicio_fixacao_static.runtimeconfig.json
+C:\projetos web\C#\exsercicio_fixacao_static\exsercicio_fixacao_static\bin\Debug\net8.0\exsercicio_fixacao_static.dll
+C:\projetos web\C#\exsercicio_fixacao_static\exsercicio_fixacao_static\bin\Debug\net8.0\exsercicio_fixacao_static.pdb
+C:\projetos web\C#\exsercicio_fixacao_static\exsercicio_fixacao_static\obj\Debug\net8.0\exsercicio_fixacao_static.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos web\C#\exsercicio_fixacao_static\exsercicio_fixacao_static\obj\Debug\net8.0\exsercicio_fixacao_static.AssemblyInfoInputs.cache
+C:\projetos web\C#\exsercicio_fixacao_static\exsercicio_fixacao_static\obj\Debug\net8.0\exsercicio_fixacao_static.AssemblyInfo.cs
+C:\projetos web\C#\exsercicio_fixacao_static\exsercicio_fixacao_static\obj\Debug\net8.0\exsercicio_fixacao_static.csproj.CoreCompileInputs.cache
+C:\projetos web\C#\exsercicio_fixacao_static\exsercicio_fixacao_static\obj\Debug\net8.0\exsercicio_fixacao_static.dll
+C:\projetos web\C#\exsercicio_fixacao_static\exsercicio_fixacao_static\obj\Debug\net8.0\refint\exsercicio_fixacao_static.dll
+C:\projetos web\C#\exsercicio_fixacao_static\exsercicio_fixacao_static\obj\Debug\net8.0\exsercicio_fixacao_static.pdb
+C:\projetos web\C#\exsercicio_fixacao_static\exsercicio_fixacao_static\obj\Debug\net8.0\exsercicio_fixacao_static.genruntimeconfig.cache
+C:\projetos web\C#\exsercicio_fixacao_static\exsercicio_fixacao_static\obj\Debug\net8.0\ref\exsercicio_fixacao_static.dll

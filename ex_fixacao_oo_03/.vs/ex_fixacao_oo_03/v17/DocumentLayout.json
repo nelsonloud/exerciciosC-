@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projetos web\\C#\\ex_fixacao_oo_03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{481CD1F1-F10E-4CBB-AA28-55239968F73A}|ex_fixacao_oo_03\\ex_fixacao_oo_03.csproj|c:\\projetos web\\c#\\ex_fixacao_oo_03\\ex_fixacao_oo_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481CD1F1-F10E-4CBB-AA28-55239968F73A}|ex_fixacao_oo_03\\ex_fixacao_oo_03.csproj|solutionrelative:ex_fixacao_oo_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481CD1F1-F10E-4CBB-AA28-55239968F73A}|ex_fixacao_oo_03\\ex_fixacao_oo_03.csproj|c:\\projetos web\\c#\\ex_fixacao_oo_03\\ex_fixacao_oo_03\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481CD1F1-F10E-4CBB-AA28-55239968F73A}|ex_fixacao_oo_03\\ex_fixacao_oo_03.csproj|solutionrelative:ex_fixacao_oo_03\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\projetos web\\C#\\ex_fixacao_oo_03\\ex_fixacao_oo_03\\Aluno.cs",
+              "RelativeDocumentMoniker": "ex_fixacao_oo_03\\Aluno.cs",
+              "ToolTip": "C:\\projetos web\\C#\\ex_fixacao_oo_03\\ex_fixacao_oo_03\\Aluno.cs",
+              "RelativeToolTip": "ex_fixacao_oo_03\\Aluno.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T15:10:53.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projetos web\\C#\\ex_fixacao_oo_03\\ex_fixacao_oo_03\\Program.cs",
+              "RelativeDocumentMoniker": "ex_fixacao_oo_03\\Program.cs",
+              "ToolTip": "C:\\projetos web\\C#\\ex_fixacao_oo_03\\ex_fixacao_oo_03\\Program.cs",
+              "RelativeToolTip": "ex_fixacao_oo_03\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T15:07:30.54Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\projetos web\C#\ex_resolvido_classes\ex_resolvido_classes\bin\Debug\net8.0\ex_resolvido_classes.exe
+C:\projetos web\C#\ex_resolvido_classes\ex_resolvido_classes\bin\Debug\net8.0\ex_resolvido_classes.deps.json
+C:\projetos web\C#\ex_resolvido_classes\ex_resolvido_classes\bin\Debug\net8.0\ex_resolvido_classes.runtimeconfig.json
+C:\projetos web\C#\ex_resolvido_classes\ex_resolvido_classes\bin\Debug\net8.0\ex_resolvido_classes.dll
+C:\projetos web\C#\ex_resolvido_classes\ex_resolvido_classes\bin\Debug\net8.0\ex_resolvido_classes.pdb
+C:\projetos web\C#\ex_resolvido_classes\ex_resolvido_classes\obj\Debug\net8.0\ex_resolvido_classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos web\C#\ex_resolvido_classes\ex_resolvido_classes\obj\Debug\net8.0\ex_resolvido_classes.AssemblyInfoInputs.cache
+C:\projetos web\C#\ex_resolvido_classes\ex_resolvido_classes\obj\Debug\net8.0\ex_resolvido_classes.AssemblyInfo.cs
+C:\projetos web\C#\ex_resolvido_classes\ex_resolvido_classes\obj\Debug\net8.0\ex_resolvido_classes.csproj.CoreCompileInputs.cache
+C:\projetos web\C#\ex_resolvido_classes\ex_resolvido_classes\obj\Debug\net8.0\ex_resolvido_classes.dll
+C:\projetos web\C#\ex_resolvido_classes\ex_resolvido_classes\obj\Debug\net8.0\refint\ex_resolvido_classes.dll
+C:\projetos web\C#\ex_resolvido_classes\ex_resolvido_classes\obj\Debug\net8.0\ex_resolvido_classes.pdb
+C:\projetos web\C#\ex_resolvido_classes\ex_resolvido_classes\obj\Debug\net8.0\ex_resolvido_classes.genruntimeconfig.cache
+C:\projetos web\C#\ex_resolvido_classes\ex_resolvido_classes\obj\Debug\net8.0\ref\ex_resolvido_classes.dll

@@ -1,0 +1,14 @@
+C:\projetos web\C#\ex_resolvidos_listas\ex_resolvidos_listas\bin\Debug\net8.0\ex_resolvidos_listas.exe
+C:\projetos web\C#\ex_resolvidos_listas\ex_resolvidos_listas\bin\Debug\net8.0\ex_resolvidos_listas.deps.json
+C:\projetos web\C#\ex_resolvidos_listas\ex_resolvidos_listas\bin\Debug\net8.0\ex_resolvidos_listas.runtimeconfig.json
+C:\projetos web\C#\ex_resolvidos_listas\ex_resolvidos_listas\bin\Debug\net8.0\ex_resolvidos_listas.dll
+C:\projetos web\C#\ex_resolvidos_listas\ex_resolvidos_listas\bin\Debug\net8.0\ex_resolvidos_listas.pdb
+C:\projetos web\C#\ex_resolvidos_listas\ex_resolvidos_listas\obj\Debug\net8.0\ex_resolvidos_listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos web\C#\ex_resolvidos_listas\ex_resolvidos_listas\obj\Debug\net8.0\ex_resolvidos_listas.AssemblyInfoInputs.cache
+C:\projetos web\C#\ex_resolvidos_listas\ex_resolvidos_listas\obj\Debug\net8.0\ex_resolvidos_listas.AssemblyInfo.cs
+C:\projetos web\C#\ex_resolvidos_listas\ex_resolvidos_listas\obj\Debug\net8.0\ex_resolvidos_listas.csproj.CoreCompileInputs.cache
+C:\projetos web\C#\ex_resolvidos_listas\ex_resolvidos_listas\obj\Debug\net8.0\ex_resolvidos_listas.dll
+C:\projetos web\C#\ex_resolvidos_listas\ex_resolvidos_listas\obj\Debug\net8.0\refint\ex_resolvidos_listas.dll
+C:\projetos web\C#\ex_resolvidos_listas\ex_resolvidos_listas\obj\Debug\net8.0\ex_resolvidos_listas.pdb
+C:\projetos web\C#\ex_resolvidos_listas\ex_resolvidos_listas\obj\Debug\net8.0\ex_resolvidos_listas.genruntimeconfig.cache
+C:\projetos web\C#\ex_resolvidos_listas\ex_resolvidos_listas\obj\Debug\net8.0\ref\ex_resolvidos_listas.dll

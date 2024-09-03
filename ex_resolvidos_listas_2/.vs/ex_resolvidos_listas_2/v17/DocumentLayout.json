@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projetos web\\C#\\ex_resolvidos_listas_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F526ED-78B1-4B61-93DD-FE6F10B1728D}|ex_resolvidos_listas_2\\ex_resolvidos_listas_2.csproj|c:\\projetos web\\c#\\ex_resolvidos_listas_2\\ex_resolvidos_listas_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F526ED-78B1-4B61-93DD-FE6F10B1728D}|ex_resolvidos_listas_2\\ex_resolvidos_listas_2.csproj|solutionrelative:ex_resolvidos_listas_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F526ED-78B1-4B61-93DD-FE6F10B1728D}|ex_resolvidos_listas_2\\ex_resolvidos_listas_2.csproj|c:\\projetos web\\c#\\ex_resolvidos_listas_2\\ex_resolvidos_listas_2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F526ED-78B1-4B61-93DD-FE6F10B1728D}|ex_resolvidos_listas_2\\ex_resolvidos_listas_2.csproj|solutionrelative:ex_resolvidos_listas_2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\projetos web\\C#\\ex_resolvidos_listas_2\\ex_resolvidos_listas_2\\Student.cs",
+              "RelativeDocumentMoniker": "ex_resolvidos_listas_2\\Student.cs",
+              "ToolTip": "C:\\projetos web\\C#\\ex_resolvidos_listas_2\\ex_resolvidos_listas_2\\Student.cs",
+              "RelativeToolTip": "ex_resolvidos_listas_2\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T17:29:51.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projetos web\\C#\\ex_resolvidos_listas_2\\ex_resolvidos_listas_2\\Program.cs",
+              "RelativeDocumentMoniker": "ex_resolvidos_listas_2\\Program.cs",
+              "ToolTip": "C:\\projetos web\\C#\\ex_resolvidos_listas_2\\ex_resolvidos_listas_2\\Program.cs",
+              "RelativeToolTip": "ex_resolvidos_listas_2\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T17:29:35.371Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
