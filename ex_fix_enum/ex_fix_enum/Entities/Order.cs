@@ -12,8 +12,6 @@ namespace ex_fix_enum.Entities {
 
         public Client Client{ get; set; }
 
-        //public List<HourContract> Contracts { get; private set; } = new List<HourContract>();
-
         public List<OrderItem> Items { get; set; } = new List<OrderItem>();
 
 
