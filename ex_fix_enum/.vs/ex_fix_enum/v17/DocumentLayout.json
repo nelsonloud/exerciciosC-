@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utilizador\\source\\repos\\ex_fix_enum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AA987F-168D-4389-A222-793EA4541570}|ex_fix_enum\\ex_fix_enum.csproj|c:\\users\\utilizador\\source\\repos\\ex_fix_enum\\ex_fix_enum\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2AA987F-168D-4389-A222-793EA4541570}|ex_fix_enum\\ex_fix_enum.csproj|solutionrelative:ex_fix_enum\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AA987F-168D-4389-A222-793EA4541570}|ex_fix_enum\\ex_fix_enum.csproj|c:\\users\\utilizador\\source\\repos\\ex_fix_enum\\ex_fix_enum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2AA987F-168D-4389-A222-793EA4541570}|ex_fix_enum\\ex_fix_enum.csproj|solutionrelative:ex_fix_enum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AA987F-168D-4389-A222-793EA4541570}|ex_fix_enum\\ex_fix_enum.csproj|c:\\users\\utilizador\\source\\repos\\ex_fix_enum\\ex_fix_enum\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2AA987F-168D-4389-A222-793EA4541570}|ex_fix_enum\\ex_fix_enum.csproj|solutionrelative:ex_fix_enum\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AA987F-168D-4389-A222-793EA4541570}|ex_fix_enum\\ex_fix_enum.csproj|c:\\users\\utilizador\\source\\repos\\ex_fix_enum\\ex_fix_enum\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2AA987F-168D-4389-A222-793EA4541570}|ex_fix_enum\\ex_fix_enum.csproj|solutionrelative:ex_fix_enum\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AA987F-168D-4389-A222-793EA4541570}|ex_fix_enum\\ex_fix_enum.csproj|c:\\users\\utilizador\\source\\repos\\ex_fix_enum\\ex_fix_enum\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2AA987F-168D-4389-A222-793EA4541570}|ex_fix_enum\\ex_fix_enum.csproj|solutionrelative:ex_fix_enum\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AA987F-168D-4389-A222-793EA4541570}|ex_fix_enum\\ex_fix_enum.csproj|c:\\users\\utilizador\\source\\repos\\ex_fix_enum\\ex_fix_enum\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2AA987F-168D-4389-A222-793EA4541570}|ex_fix_enum\\ex_fix_enum.csproj|solutionrelative:ex_fix_enum\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador\\source\\repos\\ex_fix_enum\\ex_fix_enum\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "ex_fix_enum\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Utilizador\\source\\repos\\ex_fix_enum\\ex_fix_enum\\Entities\\Order.cs",
+              "RelativeToolTip": "ex_fix_enum\\Entities\\Order.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAuwCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:36:01.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador\\source\\repos\\ex_fix_enum\\ex_fix_enum\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "ex_fix_enum\\Entities\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\Utilizador\\source\\repos\\ex_fix_enum\\ex_fix_enum\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "ex_fix_enum\\Entities\\Enums\\OrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:32:37.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador\\source\\repos\\ex_fix_enum\\ex_fix_enum\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "ex_fix_enum\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Utilizador\\source\\repos\\ex_fix_enum\\ex_fix_enum\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "ex_fix_enum\\Entities\\OrderItem.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA5wCIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:24:37.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador\\source\\repos\\ex_fix_enum\\ex_fix_enum\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ex_fix_enum\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Utilizador\\source\\repos\\ex_fix_enum\\ex_fix_enum\\Entities\\Product.cs",
+              "RelativeToolTip": "ex_fix_enum\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:21:03.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador\\source\\repos\\ex_fix_enum\\ex_fix_enum\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "ex_fix_enum\\Entities\\Client.cs",
+              "ToolTip": "C:\\Users\\Utilizador\\source\\repos\\ex_fix_enum\\ex_fix_enum\\Entities\\Client.cs",
+              "RelativeToolTip": "ex_fix_enum\\Entities\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:04:08.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador\\source\\repos\\ex_fix_enum\\ex_fix_enum\\Program.cs",
+              "RelativeDocumentMoniker": "ex_fix_enum\\Program.cs",
+              "ToolTip": "C:\\Users\\Utilizador\\source\\repos\\ex_fix_enum\\ex_fix_enum\\Program.cs",
+              "RelativeToolTip": "ex_fix_enum\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T17:49:52.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

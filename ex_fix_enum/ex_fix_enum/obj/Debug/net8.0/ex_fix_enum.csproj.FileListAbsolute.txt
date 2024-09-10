@@ -1,0 +1,14 @@
+C:\Users\Utilizador\source\repos\ex_fix_enum\ex_fix_enum\bin\Debug\net8.0\ex_fix_enum.exe
+C:\Users\Utilizador\source\repos\ex_fix_enum\ex_fix_enum\bin\Debug\net8.0\ex_fix_enum.deps.json
+C:\Users\Utilizador\source\repos\ex_fix_enum\ex_fix_enum\bin\Debug\net8.0\ex_fix_enum.runtimeconfig.json
+C:\Users\Utilizador\source\repos\ex_fix_enum\ex_fix_enum\bin\Debug\net8.0\ex_fix_enum.dll
+C:\Users\Utilizador\source\repos\ex_fix_enum\ex_fix_enum\bin\Debug\net8.0\ex_fix_enum.pdb
+C:\Users\Utilizador\source\repos\ex_fix_enum\ex_fix_enum\obj\Debug\net8.0\ex_fix_enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\source\repos\ex_fix_enum\ex_fix_enum\obj\Debug\net8.0\ex_fix_enum.AssemblyInfoInputs.cache
+C:\Users\Utilizador\source\repos\ex_fix_enum\ex_fix_enum\obj\Debug\net8.0\ex_fix_enum.AssemblyInfo.cs
+C:\Users\Utilizador\source\repos\ex_fix_enum\ex_fix_enum\obj\Debug\net8.0\ex_fix_enum.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\ex_fix_enum\ex_fix_enum\obj\Debug\net8.0\ex_fix_enum.dll
+C:\Users\Utilizador\source\repos\ex_fix_enum\ex_fix_enum\obj\Debug\net8.0\refint\ex_fix_enum.dll
+C:\Users\Utilizador\source\repos\ex_fix_enum\ex_fix_enum\obj\Debug\net8.0\ex_fix_enum.pdb
+C:\Users\Utilizador\source\repos\ex_fix_enum\ex_fix_enum\obj\Debug\net8.0\ex_fix_enum.genruntimeconfig.cache
+C:\Users\Utilizador\source\repos\ex_fix_enum\ex_fix_enum\obj\Debug\net8.0\ref\ex_fix_enum.dll
